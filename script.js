@@ -8,10 +8,10 @@ const productDB = {
         oldPrice: '220.00',
         price: 179,
         images: [
-            'assets/waka_pocket/azul.webp',
-            'assets/waka_pocket/azul2.webp',
-            'assets/waka_pocket/beige.webp',
-            'assets/waka_pocket/beige2.webp'
+            'azul.webp',
+            'azul2.webp',
+            'beige.webp',
+            'beige2.webp'
         ],
         desc: '6,000 Puffs | 5% Nicotina. El dispositivo recargable definitivo con retención de sabor extrema.',
         flavors: ['Blueberry Mint', 'Watermelon', 'Strawberry Kiwi', 'Cherry Bomb', 'Grape']
@@ -21,11 +21,11 @@ const productDB = {
         oldPrice: '150.00',
         price: 119,
         images: [
-            'assets/maskking/rosa.webp',
-            'assets/maskking/rojo.webp',
-            'assets/maskking/menta.webp',
-            'assets/maskking/morado.webp',
-            'assets/maskking/azul.webp'
+            'rosa.webp',
+            'rojo.webp',
+            'menta.webp',
+            'morado.webp',
+            'azul.webp'
         ],
         desc: '1,800 Puffs | 5% Nicotina. Diseño compacto, golpe perfecto y perfiles intensos helados.',
         flavors: ['Lush Ice', 'Blue Razz Ice', 'Cool Mint', 'Mixed Berries Ice', 'Tropical Ice']
